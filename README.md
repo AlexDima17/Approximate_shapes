@@ -1,5 +1,6 @@
 # Approximate_shapes
-Estimation of approximate shapes 
+Code for Thesis submitted at the Bartlett School of Architecture (MSc Architectural Computation):
+## Estimation of approximate shapes : A Deep Learning exploration for shape design
 
 # Using
 Python 3.7.6
